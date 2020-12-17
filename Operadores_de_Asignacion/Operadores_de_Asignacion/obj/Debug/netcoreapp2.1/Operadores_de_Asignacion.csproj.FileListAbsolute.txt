@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\bin\Debug\netcoreapp2.1\Operadores_de_Asignacion.deps.json
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\bin\Debug\netcoreapp2.1\Operadores_de_Asignacion.runtimeconfig.json
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\bin\Debug\netcoreapp2.1\Operadores_de_Asignacion.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\bin\Debug\netcoreapp2.1\Operadores_de_Asignacion.dll
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\bin\Debug\netcoreapp2.1\Operadores_de_Asignacion.pdb
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\obj\Debug\netcoreapp2.1\Operadores_de_Asignacion.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\obj\Debug\netcoreapp2.1\Operadores_de_Asignacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\obj\Debug\netcoreapp2.1\Operadores_de_Asignacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\obj\Debug\netcoreapp2.1\Operadores_de_Asignacion.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\obj\Debug\netcoreapp2.1\Operadores_de_Asignacion.dll
+C:\Users\Usuario\source\repos\Operadores_de_Asignacion\Operadores_de_Asignacion\obj\Debug\netcoreapp2.1\Operadores_de_Asignacion.pdb

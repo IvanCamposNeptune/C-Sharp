@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\bin\Debug\netcoreapp2.1\Break_Continue_y_Goto.deps.json
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\bin\Debug\netcoreapp2.1\Break_Continue_y_Goto.runtimeconfig.json
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\bin\Debug\netcoreapp2.1\Break_Continue_y_Goto.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\bin\Debug\netcoreapp2.1\Break_Continue_y_Goto.dll
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\bin\Debug\netcoreapp2.1\Break_Continue_y_Goto.pdb
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\obj\Debug\netcoreapp2.1\Break_Continue_y_Goto.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\obj\Debug\netcoreapp2.1\Break_Continue_y_Goto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\obj\Debug\netcoreapp2.1\Break_Continue_y_Goto.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\obj\Debug\netcoreapp2.1\Break_Continue_y_Goto.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\obj\Debug\netcoreapp2.1\Break_Continue_y_Goto.dll
+C:\Users\Usuario\source\repos\Break_Continue_y_Goto\Break_Continue_y_Goto\obj\Debug\netcoreapp2.1\Break_Continue_y_Goto.pdb

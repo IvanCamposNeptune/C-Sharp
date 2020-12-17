@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\netcoreapp2.1\Clases_e_Instancias.deps.json
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\netcoreapp2.1\Clases_e_Instancias.runtimeconfig.json
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\netcoreapp2.1\Clases_e_Instancias.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\netcoreapp2.1\Clases_e_Instancias.dll
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\bin\Debug\netcoreapp2.1\Clases_e_Instancias.pdb
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\netcoreapp2.1\Clases_e_Instancias.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\netcoreapp2.1\Clases_e_Instancias.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\netcoreapp2.1\Clases_e_Instancias.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\netcoreapp2.1\Clases_e_Instancias.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\netcoreapp2.1\Clases_e_Instancias.dll
+C:\Users\Usuario\source\repos\Clases_e_Instancias\Clases_e_Instancias\obj\Debug\netcoreapp2.1\Clases_e_Instancias.pdb

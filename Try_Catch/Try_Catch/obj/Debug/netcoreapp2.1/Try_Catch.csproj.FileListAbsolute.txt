@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\bin\Debug\netcoreapp2.1\Try_Catch.deps.json
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\bin\Debug\netcoreapp2.1\Try_Catch.runtimeconfig.json
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\bin\Debug\netcoreapp2.1\Try_Catch.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\bin\Debug\netcoreapp2.1\Try_Catch.dll
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\bin\Debug\netcoreapp2.1\Try_Catch.pdb
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\obj\Debug\netcoreapp2.1\Try_Catch.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\obj\Debug\netcoreapp2.1\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\obj\Debug\netcoreapp2.1\Try_Catch.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\obj\Debug\netcoreapp2.1\Try_Catch.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\obj\Debug\netcoreapp2.1\Try_Catch.dll
+C:\Users\Usuario\source\repos\Try_Catch\Try_Catch\obj\Debug\netcoreapp2.1\Try_Catch.pdb

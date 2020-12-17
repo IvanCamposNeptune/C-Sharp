@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Libreria_CDLC\Libreria_CDLC\bin\Debug\Libreria_CDLC.dll
+C:\Users\Usuario\source\repos\Libreria_CDLC\Libreria_CDLC\bin\Debug\Libreria_CDLC.pdb
+C:\Users\Usuario\source\repos\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.dll
+C:\Users\Usuario\source\repos\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\Libreria_CDLC\Libreria_CDLC\bin\Debug\Libreria_CDLC.dll
+D:\ACER IVAN\Escritorio\Proyectos de Visual\Libreria_CDLC\Libreria_CDLC\bin\Debug\Libreria_CDLC.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.csprojAssemblyReference.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.csproj.CoreCompileInputs.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.dll
+D:\ACER IVAN\Escritorio\Proyectos de Visual\Libreria_CDLC\Libreria_CDLC\obj\Debug\Libreria_CDLC.pdb

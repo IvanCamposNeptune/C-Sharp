@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectores_y_Matrices", "Vectores_y_Matrices\Vectores_y_Matrices.csproj", "{C7355F95-9466-430F-9512-B14FD640418A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7355F95-9466-430F-9512-B14FD640418A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7355F95-9466-430F-9512-B14FD640418A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7355F95-9466-430F-9512-B14FD640418A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7355F95-9466-430F-9512-B14FD640418A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D2046E-F0F8-47EA-9CEB-8E412578E791}
+	EndGlobalSection
+EndGlobal

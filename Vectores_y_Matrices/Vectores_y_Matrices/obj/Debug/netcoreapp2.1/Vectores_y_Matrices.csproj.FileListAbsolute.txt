@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\bin\Debug\netcoreapp2.1\Vectores_y_Matrices.deps.json
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\bin\Debug\netcoreapp2.1\Vectores_y_Matrices.runtimeconfig.json
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\bin\Debug\netcoreapp2.1\Vectores_y_Matrices.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\bin\Debug\netcoreapp2.1\Vectores_y_Matrices.dll
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\bin\Debug\netcoreapp2.1\Vectores_y_Matrices.pdb
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\obj\Debug\netcoreapp2.1\Vectores_y_Matrices.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\obj\Debug\netcoreapp2.1\Vectores_y_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\obj\Debug\netcoreapp2.1\Vectores_y_Matrices.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\obj\Debug\netcoreapp2.1\Vectores_y_Matrices.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\obj\Debug\netcoreapp2.1\Vectores_y_Matrices.dll
+C:\Users\Usuario\source\repos\Vectores_y_Matrices\Vectores_y_Matrices\obj\Debug\netcoreapp2.1\Vectores_y_Matrices.pdb

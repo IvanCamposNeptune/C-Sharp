@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\bin\Debug\netcoreapp2.1\Crear_Archivo.deps.json
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\bin\Debug\netcoreapp2.1\Crear_Archivo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\bin\Debug\netcoreapp2.1\Crear_Archivo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\bin\Debug\netcoreapp2.1\Crear_Archivo.dll
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\bin\Debug\netcoreapp2.1\Crear_Archivo.pdb
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\obj\Debug\netcoreapp2.1\Crear_Archivo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\obj\Debug\netcoreapp2.1\Crear_Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\obj\Debug\netcoreapp2.1\Crear_Archivo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\obj\Debug\netcoreapp2.1\Crear_Archivo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\obj\Debug\netcoreapp2.1\Crear_Archivo.dll
+C:\Users\Usuario\source\repos\Crear_Archivo\Crear_Archivo\obj\Debug\netcoreapp2.1\Crear_Archivo.pdb

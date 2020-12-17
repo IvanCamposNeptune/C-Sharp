@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.1\Polimorfismo.deps.json
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.1\Polimorfismo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.1\Polimorfismo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.1\Polimorfismo.dll
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp2.1\Polimorfismo.pdb
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.dll
+C:\Users\Usuario\source\repos\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.pdb

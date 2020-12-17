@@ -1,0 +1,75 @@
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.exe.config
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.exe
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.pdb
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.exe
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.pdb
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Administrador.resources
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Inicio_Sesion.resources
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Tecnico.resources
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\bin\Debug\Libreria_CDLC.dll
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\bin\Debug\Libreria_CDLC.pdb
+C:\Users\Usuario\source\repos\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.CopyComplete
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csprojAssemblyReference.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Administrador.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Inicio_Sesion.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Properties.Resources.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Tecnico.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.GenerateResource.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.CoreCompileInputs.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.exe
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.exe.config
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.exe
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\bin\Debug\Libreria_CDLC.dll
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\bin\Debug\Libreria_CDLC.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.CopyComplete
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Formulario_Base.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.MantenimientoAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.MantenimientoTec.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ContenedorAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ContenedorTec.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Mantenimiento.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Consultas.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Procesos.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarTec.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarNotaTec.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarRepoTec.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.InformacionTec.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarEstadosAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarEstadosTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.exe.config
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.exe
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\bin\Debug\CDLC_V1.pdb
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\bin\Debug\Libreria_CDLC.dll
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\bin\Debug\Libreria_CDLC.pdb
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csprojAssemblyReference.cache
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Administrador.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarEstadosAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarEstadosTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarNotaTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarRepoTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ConsultarTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Consultas.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ContenedorAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.ContenedorTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.InformacionTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Mantenimiento.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.MantenimientoAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Formulario_Base.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Inicio_Sesion.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Procesos.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Properties.Resources.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.MantenimientoTec.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.Tecnico.resources
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.GenerateResource.cache
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.CoreCompileInputs.cache
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.csproj.CopyComplete
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.exe
+D:\ACER IVAN\Escritorio\Proyectos y curso C#\CDLC_V1\CDLC_V1\obj\Debug\CDLC_V1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria_CDLC", "Libreria_CDLC\Libreria_CDLC.csproj", "{E666D5E5-9E51-439D-87D8-F8E604FDC998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E666D5E5-9E51-439D-87D8-F8E604FDC998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E666D5E5-9E51-439D-87D8-F8E604FDC998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E666D5E5-9E51-439D-87D8-F8E604FDC998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E666D5E5-9E51-439D-87D8-F8E604FDC998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A0E27F8-8505-4B48-9411-9E5CC3C30D74}
+	EndGlobalSection
+EndGlobal

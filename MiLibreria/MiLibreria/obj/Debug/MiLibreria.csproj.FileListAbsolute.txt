@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\MiLibreria\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Usuario\source\repos\MiLibreria\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Usuario\source\repos\MiLibreria\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MiLibreria\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MiLibreria\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Usuario\source\repos\MiLibreria\MiLibreria\obj\Debug\MiLibreria.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\MiLibreria\MiLibreria\bin\Debug\MiLibreria.dll
+D:\ACER IVAN\Escritorio\Proyectos de Visual\MiLibreria\MiLibreria\bin\Debug\MiLibreria.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\MiLibreria\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\MiLibreria\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\MiLibreria\MiLibreria\obj\Debug\MiLibreria.dll
+D:\ACER IVAN\Escritorio\Proyectos de Visual\MiLibreria\MiLibreria\obj\Debug\MiLibreria.pdb

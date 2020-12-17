@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\bin\Debug\Prueba_cdlc.exe.config
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\bin\Debug\Prueba_cdlc.exe
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\bin\Debug\Prueba_cdlc.pdb
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\bin\Debug\Prueba_cdlc.xml
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.Form1.resources
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.Resources.resources
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.exe
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.xml
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.pdb
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\bin\Debug\Prueba_cdlc.exe.manifest
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\bin\Debug\Prueba_cdlc.application
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.exe.manifest
+C:\Users\Usuario\source\repos\Prueba_cdlc\Prueba_cdlc\obj\Debug\Prueba_cdlc.application

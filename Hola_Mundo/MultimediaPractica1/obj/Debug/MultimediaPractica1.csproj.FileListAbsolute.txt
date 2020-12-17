@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\bin\Debug\MultimediaPractica1.exe.config
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\bin\Debug\MultimediaPractica1.exe
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\bin\Debug\MultimediaPractica1.pdb
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\obj\Debug\MultimediaPractica1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\obj\Debug\MultimediaPractica1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\obj\Debug\MultimediaPractica1.exe
+C:\Users\Usuario\source\repos\MultimediaPractica1\MultimediaPractica1\obj\Debug\MultimediaPractica1.pdb
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\bin\Debug\MultimediaPractica1.exe.config
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\bin\Debug\MultimediaPractica1.exe
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\bin\Debug\MultimediaPractica1.pdb
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\obj\Debug\MultimediaPractica1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\obj\Debug\MultimediaPractica1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\obj\Debug\MultimediaPractica1.exe
+C:\Users\Usuario\source\repos\Hola_Mundo\MultimediaPractica1\obj\Debug\MultimediaPractica1.pdb

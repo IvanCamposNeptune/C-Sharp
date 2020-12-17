@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\netcoreapp2.1\Tipos_de_Datos.deps.json
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\netcoreapp2.1\Tipos_de_Datos.runtimeconfig.json
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\netcoreapp2.1\Tipos_de_Datos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\netcoreapp2.1\Tipos_de_Datos.dll
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\bin\Debug\netcoreapp2.1\Tipos_de_Datos.pdb
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\netcoreapp2.1\Tipos_de_Datos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\netcoreapp2.1\Tipos_de_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\netcoreapp2.1\Tipos_de_Datos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\netcoreapp2.1\Tipos_de_Datos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\netcoreapp2.1\Tipos_de_Datos.dll
+C:\Users\Usuario\source\repos\Tipos_de_Datos\Tipos_de_Datos\obj\Debug\netcoreapp2.1\Tipos_de_Datos.pdb

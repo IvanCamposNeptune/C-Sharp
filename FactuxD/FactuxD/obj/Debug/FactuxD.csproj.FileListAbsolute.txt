@@ -1,0 +1,39 @@
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\bin\Debug\FactuxD.exe.config
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\bin\Debug\FactuxD.exe
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\bin\Debug\FactuxD.pdb
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.Properties.Resources.resources
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.exe
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.pdb
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\bin\Debug\MiLibreria.dll
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\bin\Debug\MiLibreria.pdb
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.CopyComplete
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaAdmin.resources
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaUser.resources
+C:\Users\Usuario\source\repos\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaLogin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\bin\Debug\FactuxD.exe.config
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\bin\Debug\FactuxD.exe
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\bin\Debug\FactuxD.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\bin\Debug\MiLibreria.dll
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\bin\Debug\MiLibreria.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.csprojAssemblyReference.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaLogin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.Properties.Resources.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaAdmin.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.VentanaUser.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.GenerateResource.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.CoreCompileInputs.cache
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.csproj.CopyComplete
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.exe
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.pdb
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.Formulario_Base.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.Consultas.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.ContenedorPrincipal.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.Mantenimiento.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.Procesos.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.MantenimientoCliente.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.MantenimientoProducto.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.ConsultarClientes.resources
+D:\ACER IVAN\Escritorio\Proyectos de Visual\FactuxD\FactuxD\obj\Debug\FactuxD.ConsultarProductos.resources

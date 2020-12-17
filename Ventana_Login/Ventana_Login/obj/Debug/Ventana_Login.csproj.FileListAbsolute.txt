@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\bin\Debug\Ventana_Login.exe.config
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\bin\Debug\Ventana_Login.exe
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\bin\Debug\Ventana_Login.pdb
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.exe
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.pdb
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.Login.resources
+C:\Users\Usuario\source\repos\Ventana_Login\Ventana_Login\obj\Debug\Ventana_Login.Registro.resources

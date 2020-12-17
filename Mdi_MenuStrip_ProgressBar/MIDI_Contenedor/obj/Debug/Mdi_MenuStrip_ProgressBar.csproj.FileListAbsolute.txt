@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\bin\Debug\MIDI_Contenedor.exe.config
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\bin\Debug\MIDI_Contenedor.exe
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\bin\Debug\MIDI_Contenedor.pdb
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\MIDI_Contenedor.Form1.resources
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\MIDI_Contenedor.Form2.resources
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\MIDI_Contenedor.Properties.Resources.resources
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\Mdi_MenuStrip_ProgressBar.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\Mdi_MenuStrip_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\MIDI_Contenedor.exe
+C:\Users\Usuario\source\repos\MIDI_Contenedor\MIDI_Contenedor\obj\Debug\MIDI_Contenedor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\bin\Debug\ComboBox_ListBox_PictureBox.exe.config
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\bin\Debug\ComboBox_ListBox_PictureBox.exe
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\bin\Debug\ComboBox_ListBox_PictureBox.pdb
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.Form1.resources
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.exe
+C:\Users\Usuario\source\repos\ComboBox_ListBox_PictureBox\ComboBox_ListBox_PictureBox\obj\Debug\ComboBox_ListBox_PictureBox.pdb

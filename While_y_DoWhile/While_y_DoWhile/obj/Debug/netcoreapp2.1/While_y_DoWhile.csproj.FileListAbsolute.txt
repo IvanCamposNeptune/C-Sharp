@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\bin\Debug\netcoreapp2.1\While_y_DoWhile.deps.json
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\bin\Debug\netcoreapp2.1\While_y_DoWhile.runtimeconfig.json
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\bin\Debug\netcoreapp2.1\While_y_DoWhile.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\bin\Debug\netcoreapp2.1\While_y_DoWhile.dll
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\bin\Debug\netcoreapp2.1\While_y_DoWhile.pdb
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\obj\Debug\netcoreapp2.1\While_y_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\obj\Debug\netcoreapp2.1\While_y_DoWhile.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\obj\Debug\netcoreapp2.1\While_y_DoWhile.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\obj\Debug\netcoreapp2.1\While_y_DoWhile.dll
+C:\Users\Usuario\source\repos\While_y_DoWhile\While_y_DoWhile\obj\Debug\netcoreapp2.1\While_y_DoWhile.pdb

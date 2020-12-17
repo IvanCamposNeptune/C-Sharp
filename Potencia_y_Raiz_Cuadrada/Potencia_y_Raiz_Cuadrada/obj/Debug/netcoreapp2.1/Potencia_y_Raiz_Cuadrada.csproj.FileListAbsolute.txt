@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\bin\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.deps.json
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\bin\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.runtimeconfig.json
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\bin\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\bin\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.dll
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\bin\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.pdb
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\obj\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\obj\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\obj\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\obj\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.dll
+C:\Users\Usuario\source\repos\Potencia_y_Raiz_Cuadrada\Potencia_y_Raiz_Cuadrada\obj\Debug\netcoreapp2.1\Potencia_y_Raiz_Cuadrada.pdb

@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\bin\Debug\netcoreapp2.1\For_y__Foreach.deps.json
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\bin\Debug\netcoreapp2.1\For_y__Foreach.runtimeconfig.json
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\bin\Debug\netcoreapp2.1\For_y__Foreach.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\bin\Debug\netcoreapp2.1\For_y__Foreach.dll
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\bin\Debug\netcoreapp2.1\For_y__Foreach.pdb
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\obj\Debug\netcoreapp2.1\For_y__Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\obj\Debug\netcoreapp2.1\For_y__Foreach.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\obj\Debug\netcoreapp2.1\For_y__Foreach.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\obj\Debug\netcoreapp2.1\For_y__Foreach.dll
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\obj\Debug\netcoreapp2.1\For_y__Foreach.pdb
+C:\Users\Usuario\source\repos\For_y__Foreach\For_y__Foreach\obj\Debug\netcoreapp2.1\For_y__Foreach.csprojAssemblyReference.cache
